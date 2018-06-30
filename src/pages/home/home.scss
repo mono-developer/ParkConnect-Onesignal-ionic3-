@@ -1,0 +1,18 @@
+page-home {
+    .go__btn {
+      position: absolute;
+      bottom: 50px;
+      text-align: center;
+      left: calc(50vw - 105px);
+      width: 210px;
+      font-size: 20px;
+    }
+
+    .logo_img {
+      width: 80%;
+      max-width: 300px;
+      margin: 0 auto;
+      display: block;
+      margin-top: 30%;
+    }
+}
